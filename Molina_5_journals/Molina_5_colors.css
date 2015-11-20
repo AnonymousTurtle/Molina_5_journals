@@ -1,0 +1,83 @@
+Red{ color: #;}
+Blue{ color: #;}
+White{ color: #;}
+Purple{ color: #;}
+Orange{ color: #;}
+Brown{ color: #;}
+Yellow{ color: #;}
+Pink{ color: #;}
+
+body {
+    background-color: black;
+    margin: 0px;
+    color: #00FF00;
+}
+
+.container {
+    background-color: black;
+    height: 870px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 700px;
+}
+
+header {
+    background-color: #FFA500;
+    height: 100px;
+    width: 700px;
+}
+
+h1 {
+    font-family: sans-serif;
+    font-size: 48px;
+    margin: 0px;
+    text-align: center;
+}
+
+nav {
+    background-color: black;
+    height: 50px;
+    width: 700px;
+}
+
+td {
+    color: white;
+    font-family: sans-serif;
+    font-size: 35px;
+}
+
+table {
+    width: 700px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+a:hover {
+    cover: red;
+}
+
+.main {
+    background-color: beige;
+    float: left;
+    font-family: sans-serif;
+    height: 710px;
+    margin-bottom: 5px;
+    width: 545px;
+}    
+
+aside {
+    background-color:blue;
+    float: right;
+    height: 710px;
+    width: 150px;
+}
+
+footer {
+   background-color:blue;
+   clear: both;
+   height: 100px;
+   width: 1700px;
+}

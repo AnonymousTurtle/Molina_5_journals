@@ -1,0 +1,76 @@
+body {
+background-color: #552B72;
+}
+
+.doorone {
+  background-color: #226666;
+  width: 150px;
+  height: 300px;
+  transition-duation: 2s;
+  position: relative;
+  left: 225px;
+  top: 250px;
+}
+
+.doortwo {
+  background-color: #2C8437;
+  width: 150px;
+  height: 300px;
+  transition-duation: 2s;
+  position: relative;
+  left: 715px;
+  top: -50px; 
+}
+
+.doorthree {
+  background-color: #882D61;
+  width: 150px;
+  height: 300px;
+  transition-duation: 2s;
+  position: relative;
+  left: 1195px;
+  top: -348px;
+}
+
+.doorfour {
+  background-color: red;
+  width: 200px;
+  height: 300px;
+  transition-duation: 2s;
+}
+
+.doorfive {
+  background-color: red;
+  width: 200px;
+  height: 300px;
+  transition-duation: 2s;
+}
+
+.doorsix {
+  background-color: red;
+  width: 200px;
+  height: 300px;
+  transition-duation: 2s;
+}
+
+.doorseven {
+  background-color: red;
+  width: 200px;
+  height: 300px;
+  transition-duation: 2s;
+}
+
+.dooreight {
+  background-color: red;
+  width: 200px;
+  height: 300px;
+  transition-duation: 2s;
+}
+
+.doornine {
+  background-color: red;
+  width: 200px;
+  height: 300px;
+  transition-duation: 2s;
+}
+

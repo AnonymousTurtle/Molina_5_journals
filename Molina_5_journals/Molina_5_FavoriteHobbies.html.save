@@ -1,0 +1,56 @@
+<!DOCKTYPE html>
+<html>
+    <head> 
+        <meta charset="utf-8">
+        <link href="Molina_5_FavoriteHobbies.css" rel="stylesheet">
+        <title> </title>
+        <style>
+        body {
+            background-image: url
+            background-repeat: repeat;
+        
+        }
+       </style>
+    </head>
+    <body>
+        <div class="container">
+            <header>
+                <h1></h1>                 
+            </header>
+            <nav>
+                <table>
+                    <tr>
+                        <td><a href="Molina_._moredivs.html">Home</a></td>
+                        <td><a href="Molina_history_moredivs.html">History</a></td>
+                        <td><a href="Molina_likes_moredivs.html">Likes</a></td>
+                    </tr>
+                 </table>
+             </nav>
+             <section class="main">
+                 <h2>Welcome fellow peeps!</h2>
+                 <article>
+                     <h3>Introduction</h3>
+                     <p></p>
+                 </article>
+                 <article>
+                     <h3></h3>
+                     <p></p>
+                     </ol>
+                 </article>
+             </section>
+             <aside></aside> <li><a href="Molina_5_FavoriteHobbies.html">Home</a></li>
+                     <li><a href="Molina_5_">Soccer</a></li>
+                     <li><a href="Molina_5_">Likes</a></li>
+                     <li><a href="Molina_5_">Draw</a></li>
+
+             <footer>
+                 <ul>
+                     <li><a href="Molina_5_FavoriteHobbies.html">Home</a></li>
+                     <li><a href="Molina_5_">Soccer</a></li>
+                     <li><a href="Molina_5_">Likes</a></li>
+                     <li><a href="Molina_5_">Draw</a></li>
+                 </ul>
+             </footer>
+         </div>
+     </body>
+ </html>

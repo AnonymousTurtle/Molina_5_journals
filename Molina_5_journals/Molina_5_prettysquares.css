@@ -1,0 +1,60 @@
+body { 
+    width: auto;
+    height: auto;
+
+}
+
+.redbox { 
+    background-color: #ff0038; 
+    width: 150px;
+    height: 200px;
+    position: relative;
+    left: 1150px;
+    top: 299px;
+    right: 100px;
+}  
+
+.lightgreenbox {
+       background-color: #9fff00;
+       width: 100px;
+       height: 300px;
+       position:relative;
+       left: 400px;
+}
+
+.cyanbox { 
+     background-color: #00ffba;
+     width: 300px;
+     height: 65px;
+     position: absolute;
+     left: 507px;
+     top: 443px;
+}
+
+.turquoisebox {
+       background-color: #00fcff;
+       width: 173px;
+       height: 135px;
+       position: absolute;
+       left: 507px;
+       top: 275px;
+}
+
+.greenbox {
+      background-color: #00ff24;
+      width: 200px;
+      height: 175px;
+      position: fixed;
+      left: 750px; 
+      top: 10px;
+      z-index: 1; 
+}
+
+.hotpinkbox { 
+      background-color: #ff00fc;      
+      width: 250px;
+      height: 175px;
+      position: fixed;
+      left: 800px;
+      top: 100px;
+}

@@ -1,0 +1,142 @@
+body {
+    background-color: black;
+}
+
+.circle {
+    width: 900px;
+    height: 900px;
+    border-radius: 900px;
+    background-color: white;
+    position: relative;
+    left: 375px;
+}
+
+.one {
+    width: 100px;
+    height: 100px;
+    border-radius: 100px;
+    background-color: #297C46;
+    position: relative;
+    left: 775px;
+    top: -105px;
+}
+
+.two {
+    width: 100px;
+    height: 100px;
+    border-radius: 100px;
+    background-color: #297C46;
+    position: relative;
+    left: 775px;
+    top: -995px;
+}
+
+.three {
+    width: 100px;
+    height: 100px;
+    border-radius: 100px;
+    background-color: #297C46;
+    position: relative;
+    left: 380px;
+    top: -700px;
+}
+
+.four {
+    width: 75px;
+    height: 75px;
+    border-radius: 75px;
+    background-color: #297C46;
+    position: relative;
+    left: 970px;
+    top: -1131px;
+}
+
+.five {
+    width: 100px;
+    height: 100px;
+    border-radius: 100px;
+    background-color: #297C46;
+    position: relative;
+    left: 1170px;
+    top: -875px;
+}
+
+.six {
+    width: 75px;
+    height: 75px;
+    border-radius: 75px;
+    background-color: #297C46;
+    position: relative;
+    left: 970px;
+    top: -608px; 
+}
+
+.seven {
+    width: 75px;
+    height: 75px;
+    border-radius: 75px;
+    background-color: #297C46;
+    position: relative;
+    left: 1127px;
+    top: -1246px;
+}
+
+.eight {
+    width: 75px;
+    height: 75px;
+    border-radius: 75px;
+    background-color: #297C46;
+    position: relative;
+    left: 593px;
+    top: -1455px;  
+}
+
+.nine {
+    width: 75px;
+    height: 75px;
+    border-radius: 75px;
+    background-color: #297C46;
+    position: relative;
+    left: 1127px;
+    top: -980px;
+}
+
+.ten {
+    width: 75px;
+    height: 75px;
+    border-radius: 75px;
+    background-color: #297C46;
+    position: relative;
+    left: 446px;
+    top: -1054px;
+}
+
+.eleven {
+    width: 75px;
+    height: 75px;
+    border-radius: 75px;
+    background-color: #297C46;
+    position: relative;
+    left: 447px;
+    top: -1546px;
+}
+
+.twelve {
+    width: 75px;
+    height: 75px;
+    border-radius: 75px;
+    background-color: #297C46;
+    position: relative;
+    left: 592px;
+    top: -1058px
+}
+
+.middlecircle {
+    width: 90px;
+    height:90px;
+    border-radius: 90px;
+    background-color: #297C46;
+    position: relative;
+    left: 780px;
+    top: -1500px;
+}
